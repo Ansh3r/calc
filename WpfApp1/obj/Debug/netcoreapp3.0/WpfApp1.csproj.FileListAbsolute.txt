@@ -1,0 +1,58 @@
+C:\Users\aaaaa\source\repos\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.0\WpfApp1.csprojAssemblyReference.cache
+C:\Users\aaaaa\source\repos\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\aaaaa\source\repos\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.0\WpfApp1_MarkupCompile.cache
+C:\Users\aaaaa\source\repos\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\aaaaa\source\repos\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.0\WpfApp1_MarkupCompile.lref
+C:\Users\aaaaa\source\repos\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.0\WpfApp1.exe
+C:\Users\aaaaa\source\repos\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.0\WpfApp1.deps.json
+C:\Users\aaaaa\source\repos\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.0\WpfApp1.runtimeconfig.json
+C:\Users\aaaaa\source\repos\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.0\WpfApp1.runtimeconfig.dev.json
+C:\Users\aaaaa\source\repos\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.0\WpfApp1.dll
+C:\Users\aaaaa\source\repos\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.0\WpfApp1.pdb
+C:\Users\aaaaa\source\repos\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\aaaaa\source\repos\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.0\WpfApp1.g.resources
+C:\Users\aaaaa\source\repos\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.0\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\aaaaa\source\repos\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.0\WpfApp1.AssemblyInfo.cs
+C:\Users\aaaaa\source\repos\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.0\WpfApp1.dll
+C:\Users\aaaaa\source\repos\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.0\WpfApp1.pdb
+C:\Users\aaaaa\source\repos\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.0\App.baml
+C:\Users\Андрей\Desktop\u4eba\калькулятор\MVVM ALEXEY\WpfApp1\bin\Debug\netcoreapp3.0\WpfApp1.exe
+C:\Users\Андрей\Desktop\u4eba\калькулятор\MVVM ALEXEY\WpfApp1\bin\Debug\netcoreapp3.0\WpfApp1.deps.json
+C:\Users\Андрей\Desktop\u4eba\калькулятор\MVVM ALEXEY\WpfApp1\bin\Debug\netcoreapp3.0\WpfApp1.runtimeconfig.json
+C:\Users\Андрей\Desktop\u4eba\калькулятор\MVVM ALEXEY\WpfApp1\bin\Debug\netcoreapp3.0\WpfApp1.runtimeconfig.dev.json
+C:\Users\Андрей\Desktop\u4eba\калькулятор\MVVM ALEXEY\WpfApp1\bin\Debug\netcoreapp3.0\WpfApp1.dll
+C:\Users\Андрей\Desktop\u4eba\калькулятор\MVVM ALEXEY\WpfApp1\bin\Debug\netcoreapp3.0\WpfApp1.pdb
+C:\Users\Андрей\Desktop\u4eba\калькулятор\MVVM ALEXEY\WpfApp1\obj\Debug\netcoreapp3.0\WpfApp1.csprojAssemblyReference.cache
+C:\Users\Андрей\Desktop\u4eba\калькулятор\MVVM ALEXEY\WpfApp1\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\Андрей\Desktop\u4eba\калькулятор\MVVM ALEXEY\WpfApp1\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\Андрей\Desktop\u4eba\калькулятор\MVVM ALEXEY\WpfApp1\obj\Debug\netcoreapp3.0\WpfApp1_MarkupCompile.cache
+C:\Users\Андрей\Desktop\u4eba\калькулятор\MVVM ALEXEY\WpfApp1\obj\Debug\netcoreapp3.0\WpfApp1_MarkupCompile.lref
+C:\Users\Андрей\Desktop\u4eba\калькулятор\MVVM ALEXEY\WpfApp1\obj\Debug\netcoreapp3.0\App.baml
+C:\Users\Андрей\Desktop\u4eba\калькулятор\MVVM ALEXEY\WpfApp1\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\Андрей\Desktop\u4eba\калькулятор\MVVM ALEXEY\WpfApp1\obj\Debug\netcoreapp3.0\WpfApp1.g.resources
+C:\Users\Андрей\Desktop\u4eba\калькулятор\MVVM ALEXEY\WpfApp1\obj\Debug\netcoreapp3.0\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\Андрей\Desktop\u4eba\калькулятор\MVVM ALEXEY\WpfApp1\obj\Debug\netcoreapp3.0\WpfApp1.AssemblyInfo.cs
+C:\Users\Андрей\Desktop\u4eba\калькулятор\MVVM ALEXEY\WpfApp1\obj\Debug\netcoreapp3.0\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\u4eba\калькулятор\MVVM ALEXEY\WpfApp1\obj\Debug\netcoreapp3.0\WpfApp1.dll
+C:\Users\Андрей\Desktop\u4eba\калькулятор\MVVM ALEXEY\WpfApp1\obj\Debug\netcoreapp3.0\WpfApp1.pdb
+C:\Users\Андрей\Desktop\u4eba\калькулятор\MVVM ALEXEY\WpfApp1\obj\Debug\netcoreapp3.0\WpfApp1.genruntimeconfig.cache
+C:\Users\ansh3\Desktop\u4eba\Калькулятор\MVVM ALEXEY\WpfApp1\bin\Debug\netcoreapp3.0\WpfApp1.exe
+C:\Users\ansh3\Desktop\u4eba\Калькулятор\MVVM ALEXEY\WpfApp1\bin\Debug\netcoreapp3.0\WpfApp1.deps.json
+C:\Users\ansh3\Desktop\u4eba\Калькулятор\MVVM ALEXEY\WpfApp1\bin\Debug\netcoreapp3.0\WpfApp1.runtimeconfig.json
+C:\Users\ansh3\Desktop\u4eba\Калькулятор\MVVM ALEXEY\WpfApp1\bin\Debug\netcoreapp3.0\WpfApp1.runtimeconfig.dev.json
+C:\Users\ansh3\Desktop\u4eba\Калькулятор\MVVM ALEXEY\WpfApp1\bin\Debug\netcoreapp3.0\WpfApp1.dll
+C:\Users\ansh3\Desktop\u4eba\Калькулятор\MVVM ALEXEY\WpfApp1\bin\Debug\netcoreapp3.0\WpfApp1.pdb
+C:\Users\ansh3\Desktop\u4eba\Калькулятор\MVVM ALEXEY\WpfApp1\obj\Debug\netcoreapp3.0\WpfApp1.csprojAssemblyReference.cache
+C:\Users\ansh3\Desktop\u4eba\Калькулятор\MVVM ALEXEY\WpfApp1\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\ansh3\Desktop\u4eba\Калькулятор\MVVM ALEXEY\WpfApp1\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\ansh3\Desktop\u4eba\Калькулятор\MVVM ALEXEY\WpfApp1\obj\Debug\netcoreapp3.0\WpfApp1_MarkupCompile.cache
+C:\Users\ansh3\Desktop\u4eba\Калькулятор\MVVM ALEXEY\WpfApp1\obj\Debug\netcoreapp3.0\WpfApp1_MarkupCompile.lref
+C:\Users\ansh3\Desktop\u4eba\Калькулятор\MVVM ALEXEY\WpfApp1\obj\Debug\netcoreapp3.0\App.baml
+C:\Users\ansh3\Desktop\u4eba\Калькулятор\MVVM ALEXEY\WpfApp1\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\ansh3\Desktop\u4eba\Калькулятор\MVVM ALEXEY\WpfApp1\obj\Debug\netcoreapp3.0\WpfApp1.g.resources
+C:\Users\ansh3\Desktop\u4eba\Калькулятор\MVVM ALEXEY\WpfApp1\obj\Debug\netcoreapp3.0\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\ansh3\Desktop\u4eba\Калькулятор\MVVM ALEXEY\WpfApp1\obj\Debug\netcoreapp3.0\WpfApp1.AssemblyInfo.cs
+C:\Users\ansh3\Desktop\u4eba\Калькулятор\MVVM ALEXEY\WpfApp1\obj\Debug\netcoreapp3.0\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\ansh3\Desktop\u4eba\Калькулятор\MVVM ALEXEY\WpfApp1\obj\Debug\netcoreapp3.0\WpfApp1.dll
+C:\Users\ansh3\Desktop\u4eba\Калькулятор\MVVM ALEXEY\WpfApp1\obj\Debug\netcoreapp3.0\WpfApp1.pdb
+C:\Users\ansh3\Desktop\u4eba\Калькулятор\MVVM ALEXEY\WpfApp1\obj\Debug\netcoreapp3.0\WpfApp1.genruntimeconfig.cache
